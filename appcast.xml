@@ -3,12 +3,12 @@
     <channel>
         <title>Widgets</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Sun, 25 Jan 2026 21:11:17 -0600</pubDate>
-            <sparkle:version>090</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>0.91</title>
+            <pubDate>Mon, 26 Jan 2026 12:13:35 -0600</pubDate>
+            <sparkle:version>091</sparkle:version>
+            <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/justinzhunt/NewDashboard/releases/download/Prod/Widgets.zip" length="7922517" type="application/octet-stream" sparkle:edSignature="NC/JhWvSn0CkSXPEeDDR7H0BpEVMggfBm9zza0AGTrT2qMRZH+EVBldFQzdv9Gg7vf/x+2kQ1Zj/zTmkQGNGAQ=="/>
+            <enclosure url="https://github.com/justinzhunt/NewDashboard/releases/download/Prod/Widgets.zip" length="7945019" type="application/octet-stream" sparkle:edSignature="KIpUpm/hEAhLoHS/iHJCYvS5kOo03w06aKsHb0Q1REASDkJiSEEXxdFv67UfMlr0SG3EDbk4ZcLNOewRHJAiBQ=="/>
         </item>
     </channel>
 </rss>
