@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Widgets</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sun, 25 Jan 2026 21:11:17 -0600</pubDate>
+            <sparkle:version>090</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/justinzhunt/NewDashboard/releases/download/Prod/Widgets.zip" length="7922517" type="application/octet-stream" sparkle:edSignature="NC/JhWvSn0CkSXPEeDDR7H0BpEVMggfBm9zza0AGTrT2qMRZH+EVBldFQzdv9Gg7vf/x+2kQ1Zj/zTmkQGNGAQ=="/>
+        </item>
+    </channel>
+</rss>
